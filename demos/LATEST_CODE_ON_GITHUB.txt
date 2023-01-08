@@ -1,0 +1,7 @@
+Thanks for watching our course!
+
+You'll find the latest version of the code in its GitHub repository, here:
+https://github.com/ardalis/pluralsight-ddd-fundamentals
+
+Thanks!
+Julie and Steve
